@@ -1,2 +1,3 @@
 Alex Salgado
-salgdal@oregonstate.edu
+salgadal@oregonstate.edu
+black
